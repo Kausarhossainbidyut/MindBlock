@@ -1,7 +1,6 @@
 # Focus Shield — Complete Android App Documentation
 
 > Follow this document top to bottom. Every section is required. Skip nothing.
-
 ---
 
 ## Table of Contents
